@@ -1,0 +1,35 @@
+{
+  "name": "stringpad",
+  "version": "1.0.0",
+  "description": "Fastest String left,right and center pad",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "devDependencies": {
+    "tape": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sayanc93/stringpad.git"
+  },
+  "keywords": [
+    "leftpad",
+    "rightpad",
+    "centerpad",
+    "pad",
+    "padding",
+    "string",
+    "left",
+    "right",
+    "center",
+    "stringpad",
+    "string-pad"
+  ],
+  "author": "Sayan Chakraborty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sayanc93/stringpad/issues"
+  },
+  "homepage": "https://github.com/Sayanc93/stringpad#readme"
+}
