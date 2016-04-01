@@ -1,4 +1,7 @@
 # stringpad
+run:  
+``npm install stringpad``  
+
 A repository for npm module stringpad inspired by Azar's [Leftpad](https://github.com/azer/left-pad) (which recently [broke the internet](http://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code/)), with performance improvements and Rightpad and Centerpad option too.
 
 Implemented algorithm used for Javascript's [repeat](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/String/repeat).  Probably the fastest implementation of Azar's Leftpad, with added options.
